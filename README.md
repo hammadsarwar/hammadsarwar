@@ -10,7 +10,7 @@
 ## 🛠️ Technical Skills
 
 ### Programming Languages:
-- <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="25"/> **C/C++**: Started my journey in BSCS.
+- <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="20"/> **/** <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="20"/>: Started my journey in BSCS.
 - <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="25"/> **Python**: Backend development with Django, AI/ML projects.
 - <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="Dart" alt="Dart" width="25"/> **Dart**: Flutter development for cross-platform mobile apps.
 - <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="20"/> **JavaScript**: Exploring JS frameworks and libraries atm.
