@@ -6,7 +6,7 @@
 - 🎓 Final Year Student specializing in **BS Computer Science**
 - 🌱 Currently working on my Final Year Project **'Globe Chat'**, focusing on real-time multilingual communication.
 - 🔍 Exploring **Deep Learning** and **Network Architecture** concepts.
-
+<br>
 ## 🛠️ Technical Skills
 
 ### Programming Languages:
