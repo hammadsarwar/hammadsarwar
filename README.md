@@ -43,11 +43,12 @@
 
 <br>
 
-## 📊 GitHub Stats
+---
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=hammadsarwar&show_icons=true&count_private=true&theme=radical&cache_seconds=1800)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hammadsarwar&layout=compact&theme=radical&count_private=true&cache_seconds=1800)
+### ⛩️ Stats :
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hammadsarwar&theme=dark&background=000000)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hammadsarwar&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
