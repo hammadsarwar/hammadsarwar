@@ -1,6 +1,5 @@
 # > Print("Hammad")
-
-
+<br>
 ## 👨‍💻 About Me
 
 - 🎓 Final Year Student specializing in **BS Computer Science**
@@ -39,8 +38,9 @@
 
 ## 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=hammadsarwar&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hammadsarwar&layout=compact&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=hammadsarwar&show_icons=true&count_private=true&theme=radical&cache_seconds=1800)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hammadsarwar&layout=compact&theme=radical&count_private=true&cache_seconds=1800)
+
 
 
 <!--
