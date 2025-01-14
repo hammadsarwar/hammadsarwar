@@ -10,17 +10,17 @@
 ## 🛠️ Technical Skills
 
 ### Programming Languages:
-- <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="20"/> **/** <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="20"/>: Started my journey in BSCS.
-- <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="25"/> **Python**: Backend development with Django, AI/ML projects.
-- <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="Dart" alt="Dart" width="25"/> **Dart**: Flutter development for cross-platform mobile apps.
-- <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="20"/> **JavaScript**: Exploring JS frameworks and libraries atm.
+- <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="20"/><img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="20"/>: Started my journey in BSCS.
+- <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="20"/>: Backend development with Django, AI/ML projects and Python scripts to automate task.
+- <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="Dart" alt="Dart" width="20"/>: Flutter/Dart development for cross-platform mobile apps.
+- <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="20"/>: Exploring JS frameworks and libraries atm.
 
 ### Frameworks & Tools:
-- <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django" alt="Django" width="25"/> **Django**: Backend development.
-- <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="25"/> **Flutter**: Mobile app development.
-- <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="25"/> **Firebase**: Backend as a Service (BaaS) - Authentication, Realtime Database.
-- <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" title="Google Cloud" alt="Google Cloud" width="25"/> **Google Cloud Services**: API integration.
-- <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original-wordmark.svg" title="Ubuntu" alt="Ubuntu" width="25"/> **Linux (Ubuntu & Manjaro)**: Exploring.
+- <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django" alt="Django" width="20"/>: Backend development.
+- <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="20"/>: Mobile app development.
+- <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="20"/>: Backend as a Service (BaaS) - Authentication, Realtime Database.
+- <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" title="Google Cloud" alt="Google Cloud" width="20"/>**Cloud Services**: API integration.
+- <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original-wordmark.svg" title="Ubuntu" alt="Ubuntu" width="20"/> **Linux (Ubuntu & Manjaro)**: Exploring.
 - <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="25"/> **Git**: Version control.
 
 <br>
@@ -35,7 +35,10 @@
     <img src="https://img.shields.io/badge/Twitter-lightblue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-<img src="https://komarev.com/ghpvc/?username=hammadsarwar&style=flat-square&color=blue" alt=""/>
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=hammadsarwar&style=for-the-badge&color=brightgreen" alt="Profile Views"/>
+</p>
 <br>
 
 ## 📊 GitHub Stats
