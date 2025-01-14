@@ -37,7 +37,7 @@
 </div>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Profile%20Views-1234-blue?style=for-the-badge&labelColor=black&logo=Clockify&logoColor=white" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=hammadsarwar&style=flat-square&color=black&label=PROFILE+VIEWS" alt="Profile Views"/>
 </p>
 <br>
 
