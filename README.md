@@ -13,7 +13,7 @@
 - <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="25"/> **C/C++**: Started my journey in BSCS.
 - <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="25"/> **Python**: Backend development with Django, AI/ML projects.
 - <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="Dart" alt="Dart" width="25"/> **Dart**: Flutter development for cross-platform mobile apps.
-- <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="25"/> **JavaScript**: Exploring JS frameworks and libraries atm.
+- <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="20"/> **JavaScript**: Exploring JS frameworks and libraries atm.
 
 ### Frameworks & Tools:
 - <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django" alt="Django" width="25"/> **Django**: Backend development.
@@ -23,7 +23,7 @@
 - <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original-wordmark.svg" title="Ubuntu" alt="Ubuntu" width="25"/> **Linux (Ubuntu & Manjaro)**: Exploring.
 - <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="25"/> **Git**: Version control.
 
-
+<br>
 
 - **Let's Connect!**
 
@@ -36,6 +36,7 @@
   </a>
 </div>
 <img src="https://komarev.com/ghpvc/?username=hammadsarwar&style=flat-square&color=blue" alt=""/>
+<br>
 
 ## 📊 GitHub Stats
 
