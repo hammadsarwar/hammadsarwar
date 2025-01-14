@@ -1,7 +1,7 @@
 # > Print("Hammad")
 <br>
 
-## 👨‍💻 About Me
+## 👨‍💻 About
 
 - 🎓 Final Year Student specializing in **BS Computer Science**
 - 🌱 Currently working on my Final Year Project **'Globe Chat'**, focusing on real-time multilingual communication.
@@ -10,18 +10,18 @@
 ## 🛠️ Technical Skills
 
 ### Programming Languages:
-- <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="20"/><img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="20"/>: Started my journey in BSCS.
-- <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="20"/>: Backend development with Django, AI/ML projects and Python scripts to automate task.
-- <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="Dart" alt="Dart" width="20"/>: Flutter/Dart development for cross-platform mobile apps.
-- <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="20"/>: Exploring JS frameworks and libraries atm.
+- <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="30"/><img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="30"/>: Started my journey in BSCS.
+- <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="30"/>: Backend development with Django, AI/ML projects and Python scripts to automate task.
+- <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="Dart" alt="Dart" width="30"/>: Flutter/Dart development for cross-platform mobile apps.
+- <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="30"/>: Exploring JS frameworks and libraries atm.
 
 ### Frameworks & Tools:
-- <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django" alt="Django" width="20"/>: Backend development.
-- <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="20"/>: Mobile app development.
-- <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="20"/>: Backend as a Service (BaaS) - Authentication, Realtime Database.
-- <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" title="Google Cloud" alt="Google Cloud" width="20"/>**Cloud Services**: API integration.
-- <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original-wordmark.svg" title="Ubuntu" alt="Ubuntu" width="20"/> **Linux (Ubuntu & Manjaro)**: Exploring.
-- <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="25"/> **Git**: Version control.
+- <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django" alt="Django" width="30"/>: Backend development.
+- <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="30"/>: Mobile app development.
+- <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="30"/>: Backend as a Service (BaaS) - Authentication, Realtime Database.
+- <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" title="Google Cloud" alt="Google Cloud" width="30"/>**Cloud Services**: API integration.
+- <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original-wordmark.svg" title="Ubuntu" alt="Ubuntu" width="30"/> **Linux (Ubuntu & Manjaro)**: Exploring.
+- <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="30"/>: Version control.
 
 <br>
 
@@ -37,7 +37,7 @@
 </div>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=hammadsarwar&style=for-the-badge&color=brightgreen" alt="Profile Views"/>
+  <img src="https://img.shields.io/badge/Profile%20Views-1234-blue?style=for-the-badge&labelColor=black&logo=Clockify&logoColor=white" alt="Profile Views"/>
 </p>
 <br>
 
