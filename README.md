@@ -1,6 +1,27 @@
 # > Print("Hammad")
 <br>
 
+I am a software engineer from Lahore, Pakistan.
+
+I'm primarily interested in **Backend Development** and currently working as a software engineer⛩️.
+
+I'm fascinated by building scalable, impactful applications. Through my Final Year Project and personal projects during university, I explored backend development in depth, gaining hands-on experience with processes and architectures.
+
+Outside of work, I enjoy playing video games and watching tech-related content on YouTube.
+<br>
+
+- **Let's Connect!**
+
+<div id="badges">
+  <a href="https://www.linkedin.com/in/hammad-sarwar/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://x.com/hammadS________">
+    <img src="https://img.shields.io/badge/Twitter-lightblue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
+
+<!--
 ## 👨‍💻 About
 
 - 🎓 Final Year Student specializing in **BS Computer Science**
@@ -47,7 +68,7 @@
 ### ⛩️ Stats :
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hammadsarwar&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
+-->
 
 <!--
 **hammadsarwar/hammadsarwar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
